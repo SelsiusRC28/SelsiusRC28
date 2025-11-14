@@ -4,20 +4,24 @@
 </div>
 
 
-<h1 align="center">👨‍💻 Hola, soy <strong><TU_NOMBRE></strong> </h1>
+<h1 align="center">👨‍💻 Hola, soy <strong>Erick</strong> 😀 </h1>
 
 <p align="center">
   <em>Desarrollador de software | Full-Stack & Mobile | Apasionado por la IA y los proyectos reales</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/<TU_USUARIO>"><img src="https://img.shields.io/github/followers/<TU_USUARIO>?label=Follow&style=social" /></a>
+  <a href="https://github.com/SelsiusRC28"><img src="https://img.shields.io/github/followers/<TU_USUARIO>?label=Follow&style=social" /></a>
   <a href="https://www.linkedin.com/in/<TU_LINKEDIN>/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:<TU_EMAIL>"><img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="<TU_PORTAFOLIO>"><img src="https://img.shields.io/badge/Portafolio-Web-%23000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:erickrozand@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://erickdeveloper.herokuapp.com"><img src="https://img.shields.io/badge/Portafolio-Web-%23000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
+## ⭐ Pasion
+> [!NOTE]  
+> Soy Backend  y Mobile Developer especializado en Python y Flutter, enfocado en construir APIs robustas y automatizar procesos que ahorran tiempo y dinero. Trabajo a diario con MySQL, Docker y Linux, aplicando buenas prácticas, testing y documentación clara. Me gusta transformar ideas en soluciones reales, escalables y listas para producción.
+
 
 ## 🚀 Sobre mí
 
@@ -116,15 +120,15 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<TU_USUARIO>&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SelsiusRC28&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<TU_USUARIO>&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SelsiusRC28&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TU_USUARIO>&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelsiusRC28&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
@@ -141,9 +145,9 @@
 ## 📫 Cómo contactarme
 
 <p align="left">
-  <a href="mailto:<TU_EMAIL>"><img src="https://img.shields.io/badge/Email-Escríbeme-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:erickrozand@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/<TU_LINKEDIN>/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="<TU_PORTAFOLIO>"><img src="https://img.shields.io/badge/Portafolio-Mira%20mis%20proyectos-%23000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://erickdeveloper.herokuapp.com"><img src="https://img.shields.io/badge/Portafolio-Mira%20mis%20proyectos-%23000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
